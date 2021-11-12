@@ -17,18 +17,19 @@ Number check|[code](https://github.com/Alekselion/algorithms/blob/master/10_numb
 Generating numbers|[code](https://github.com/Alekselion/algorithms/blob/master/11_listGenerators.py)
 
 ## Lectures by Khiryanova
-Lecture|Code|Video|
-----|----|----|
-5|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture5_array_prime.py)|[lecture 5](https://www.youtube.com/watch?v=3I6OjxoeSS8&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=5)
-6|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture6_sorting.py)|[lecture 6](https://www.youtube.com/watch?v=NLq7nB9bV0M&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=6)
-7|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture7_recursion.py)|[lecture 7](https://www.youtube.com/watch?v=0Bc8zLURY-c&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=7)
-8|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture8_geniration.py)|[lecture 8](https://www.youtube.com/watch?v=2XFaK3bgT7w&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=8)
-9|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture9_sorting.py)|[lecture 9](https://www.youtube.com/watch?v=qf82-r9hl2Y&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=9)
-10|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture10_dynamic.py)|[lecture 10](https://www.youtube.com/watch?v=EdhN_gEDfUM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=10)
-11|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture11_sequence.py)|[lecture 11](https://www.youtube.com/watch?v=m4HOkVeN4Mo&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=11)
-12|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture12_strings.py)|[lecture 12](https://www.youtube.com/watch?v=rEPggzaPoUw&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=12)
-13|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture13_braces.py)|[lecture 13](https://www.youtube.com/watch?v=L4IU1bPKvHM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=13)
-full course|-|[lecture 1-28](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+Lecture|Code
+-------|----
+[lecture 5](https://www.youtube.com/watch?v=3I6OjxoeSS8&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=5)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture5_array_prime.py)
+[lecture 6](https://www.youtube.com/watch?v=NLq7nB9bV0M&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=6)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture6_sorting.py)
+[lecture 7](https://www.youtube.com/watch?v=0Bc8zLURY-c&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=7)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture7_recursion.py)
+[lecture 8](https://www.youtube.com/watch?v=2XFaK3bgT7w&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=8)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture8_geniration.py)
+[lecture 9](https://www.youtube.com/watch?v=qf82-r9hl2Y&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=9)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture9_sorting.py)
+[lecture 10](https://www.youtube.com/watch?v=EdhN_gEDfUM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=10)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture10_dynamic.py)
+[lecture 11](https://www.youtube.com/watch?v=m4HOkVeN4Mo&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=11)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture11_sequence.py)
+[lecture 12](https://www.youtube.com/watch?v=rEPggzaPoUw&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=12)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture12_strings.py)
+[lecture 13](https://www.youtube.com/watch?v=L4IU1bPKvHM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=13)|[code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture13_braces.py)
+
+[full course](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
 
 ## Grokking algorithms
 Name|Code|Page|
