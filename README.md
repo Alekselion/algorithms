@@ -13,19 +13,19 @@ Algorithms and data structures in python.
 - [Generating numbers](https://github.com/Alekselion/algorithms/blob/master/11_listGenerators.py): divisors, triangular, pentagonal, hexagonal
 
 ## Lectures by Khiryanova
-[full course](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+Full course on [YouTube](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
 
-Video | Code | Topics
-------|------|-------
-[lecture 5](https://www.youtube.com/watch?v=3I6OjxoeSS8&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=5) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture5_array_prime.py) | arrays, sieve of Eratosthenes
-[lecture 6](https://www.youtube.com/watch?v=NLq7nB9bV0M&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=6) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture6_sorting.py) | insertion sort, selection sort, bubble sort
-[lecture 7](https://www.youtube.com/watch?v=0Bc8zLURY-c&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=7) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture7_recursion.py) | factorial, Euclid's algorithm, quick power
-[lecture 8](https://www.youtube.com/watch?v=2XFaK3bgT7w&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=8) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture8_geniration.py) | generating numbers, generation of permutations of number
-[lecture 9](https://www.youtube.com/watch?v=qf82-r9hl2Y&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=9) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture9_sorting.py) | merge sort, quick sort
-[lecture 10](https://www.youtube.com/watch?v=EdhN_gEDfUM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=10) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture10_dynamic.py) | binary search, Fibonacci series, trajectory calculation 
-[lecture 11](https://www.youtube.com/watch?v=m4HOkVeN4Mo&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=11) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture11_sequence.py) | greatest common sequence, greatest increasing sequence 
-[lecture 12](https://www.youtube.com/watch?v=rEPggzaPoUw&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=12) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture12_strings.py) | Levenstein's algorithm, string equality, Knuth-Morris-Pratt algorithm  
-[lecture 13](https://www.youtube.com/watch?v=L4IU1bPKvHM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=13) | [code](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture13_braces.py) | bracket sequence
+Lecture | Video | Topics
+--------|-------|-------
+[Lecture 5](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture5_array_prime.py) | [YouTube](https://www.youtube.com/watch?v=3I6OjxoeSS8&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=5) | Arrays. Sieve of Eratosthenes
+[Lecture 6](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture6_sorting.py) | [YouTube](https://www.youtube.com/watch?v=NLq7nB9bV0M&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=6) | Insertion sort. Selection sort. Bubble sort
+[Lecture 7](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture7_recursion.py) | [YouTube](https://www.youtube.com/watch?v=0Bc8zLURY-c&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=7) | Factorial. Euclid's algorithm. Quick power
+[Lecture 8](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture8_geniration.py) | [YouTube](https://www.youtube.com/watch?v=2XFaK3bgT7w&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=8) | Generating numbers. Generation of permutations of number
+[Lecture 9](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture9_sorting.py) | [YouTube](https://www.youtube.com/watch?v=qf82-r9hl2Y&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=9) | Merge sort. Quick sort
+[Lecture 10](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture10_dynamic.py) | [YouTube](https://www.youtube.com/watch?v=EdhN_gEDfUM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=10) | Binary search. Fibonacci series. Trajectory calculation 
+[Lecture 11](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture11_sequence.py) | [YouTube](https://www.youtube.com/watch?v=m4HOkVeN4Mo&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=11) | Greatest common sequence. Greatest increasing sequence 
+[Lecture 12](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture12_strings.py) | [YouTube](https://www.youtube.com/watch?v=rEPggzaPoUw&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=12) | Levenstein's algorithm. String equality. Knuth-Morris-Pratt algorithm  
+[Lecture 13](https://github.com/Alekselion/algorithms/blob/master/lectures-by-Khiryanova/lecture13_braces.py) | [YouTube](https://www.youtube.com/watch?v=L4IU1bPKvHM&list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&index=13) | Bracket sequence
 
 ## Grokking algorithms
 ![picture](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/book.jpg)
