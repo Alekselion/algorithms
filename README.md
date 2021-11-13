@@ -38,3 +38,5 @@ Video | Code
 - [Dijkstra's algorithm](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/6_dijkstra.py)
 - [Greedy algorithm](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/7_greedy.py)
 - [Dynamic programming](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/8_dynamic.py)
+
+![picture](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/book.jpg)
