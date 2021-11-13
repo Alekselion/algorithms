@@ -8,8 +8,8 @@ Algorithms and data structures in python.
 - [Sieve of Eratosthenes](https://github.com/Alekselion/algorithms/blob/master/4_eratosthenes.py)
 - [Euclid's Algorithm](https://github.com/Alekselion/algorithms/blob/master/5_euclid.py)
 - [Fibonacci series](https://github.com/Alekselion/algorithms/blob/master/6_fibonacci.py)
-- [Factorial](https://github.com/Alekselion/algorithms/blob/master/7_factorial.py)
 - [Quick power](https://github.com/Alekselion/algorithms/blob/master/8_quick_power.py)
+- [Factorial](https://github.com/Alekselion/algorithms/blob/master/7_factorial.py)
 - [Reverse string](https://github.com/Alekselion/algorithms/blob/master/9_reverse.py)
 - [Number check](https://github.com/Alekselion/algorithms/blob/master/10_number_is.py): prime, even, palindrome, pandigital
 - [Generating numbers](https://github.com/Alekselion/algorithms/blob/master/11_listGenerators.py): divisors, triangular, pentagonal, hexagonal
