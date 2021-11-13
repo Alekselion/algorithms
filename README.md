@@ -32,11 +32,11 @@ Lecture | Video | Topics
 
 Algotithm | Big-O
 ----------|------
-[Binary search](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/1_binarySearch.py)|O(nlog(n))
-[Selection sort](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/2_selectionSort.py)|O(n^2)
-[Recursion](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/3_recursion.py)|O(2^n)
-[Quick sort](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/4_quickSort.py)|O(nlog(n))
-[Breadth First Search (BFS)](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/5_breadthFirstSearch.py)|O(V+E)
-[Dijkstra's algorithm](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/6_dijkstra.py)|O(nlog(n) + mlog(n))
-[Greedy algorithm](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/7_greedy.py)|O(n^2)
-[Dynamic programming](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/8_dynamic.py)|O(nlog(n))
+[Binary search](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/1_binarySearch.py)|nlog(n)
+[Selection sort](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/2_selectionSort.py)|n^2
+[Recursion](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/3_recursion.py)|2^n
+[Quick sort](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/4_quickSort.py)|nlog(n)
+[Breadth First Search (BFS)](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/5_breadthFirstSearch.py)|v+e
+[Dijkstra's algorithm](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/6_dijkstra.py)|nlog(n) + mlog(n)
+[Greedy algorithm](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/7_greedy.py)|n^2
+[Dynamic programming](https://github.com/Alekselion/algorithms/blob/master/grokking-algorithms/8_dynamic.py)|nlog(n)
