@@ -1,7 +1,7 @@
 # Algorithms
 Algorithms and data structures in python.
 
-## Main algorithms
+## Main
 - [Data structures](https://github.com/Alekselion/algorithms/blob/master/1_data_structures.py): array, hash, graph, stack, queue, heap, linked list
 - [Binary search](https://github.com/Alekselion/algorithms/blob/master/2_binary_search.py)
 - [Sorting algorithms](https://github.com/Alekselion/algorithms/blob/master/3_sorting.py): quick sort, merge sort, selection sort, insertion sort, bubble sort
